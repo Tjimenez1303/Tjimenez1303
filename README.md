@@ -1,5 +1,5 @@
-| HTML | CSS | JavaScript | React | Python | PHP | C | C++ |
-| ---- | --- | ---------- |------ |------- | --- |---|-----|
+| HTML | CSS | JavaScript | Python | PHP | C | C++ |
+| ---- | --- | ---------- |------- | --- |---|-----|
 # Welcome to my personal github!
 
 <br>
