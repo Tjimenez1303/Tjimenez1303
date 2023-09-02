@@ -31,14 +31,20 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tjimenez1303&show_icons=true&locale=en&layout=compact" alt="tjimenez1303" /></p>
 
+## Data Science
+
+Here you will find projects related to Data Scientist and machine learning
+
+* [Machine Learning and Neural Networks](https://github.com/Tjimenez1303/Passengers_Satisfaction) This project consists of applying the classic machine learning models and comparing it with the results of a basic neural network.
+
 ## Embedded Systems
 
 ### STM32
 
 Here you will find projects related to STM32.Especially for the Nucleo L476RG
 
-* [LoRa Communication.](https://github.com/Tjimenez1303/LoRa_Wireless_IoT_Dashboard) Project for communication from a gateway to an access point using the LoRa protocol
-* [Plancha Sensor Temperature Touch](https://github.com/Tjimenez1303/STM32_Cortex_M4_NUCLEO_L476RG_UART_ADC_GPIO) Project in which the use of an iron is simulated and UART commands are sent
+* [LoRa Communication.](https://github.com/Tjimenez1303/LoRa_Wireless_IoT_Dashboard) Project for communication from a gateway to an access point using the LoRa protocol.
+* [Plancha Sensor Temperature Touch](https://github.com/Tjimenez1303/STM32_Cortex_M4_NUCLEO_L476RG_UART_ADC_GPIO) Project in which the use of an iron is simulated and UART commands are sent.
 
 ### ESP32
 
