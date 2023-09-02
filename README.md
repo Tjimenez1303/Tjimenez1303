@@ -38,7 +38,7 @@
 Here you will find projects related to STM32.Especially for the Nucleo L476RG
 
 * [LoRa Communication.](https://github.com/Tjimenez1303/LoRa_Wireless_IoT_Dashboard) Project for communication from a gateway to an access point using the LoRa protocol
-* [Plancha Sensor Temperature Touch](https://github.com/jsebgiraldo/esp32-websocket) Project in which the use of an iron is simulated and UART commands are sent
+* [Plancha Sensor Temperature Touch](https://github.com/Tjimenez1303/STM32_Cortex_M4_NUCLEO_L476RG_UART_ADC_GPIO) Project in which the use of an iron is simulated and UART commands are sent
 
 ### ESP32
 
