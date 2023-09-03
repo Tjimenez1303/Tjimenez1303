@@ -50,8 +50,8 @@ Here you will find projects related to STM32.Especially for the Nucleo L476RG
 
 Here you will find projects related to ESP32.
 
-* [HTTP Web Socket server.](https://github.com/jsebgiraldo/esp32-websocket) a simple project showing how to receive and send messages through a websocket server.
-* [SMB Client.](https://github.com/jsebgiraldo/ESP32-SMB-API) this demo shows an implementation of OTA via SMB and basic functions of "ls", "cat" and downloading files to a SPIFFS partition using the SMB protocol.
+* [HTTP Web Socket server.](https://github.com/Tjimenez1303/API_HTTP_Dashboard_LED_RGB) a simple project showing how to receive and send messages through a websocket server.
+* [SMB Client.](https://github.com/Tjimenez1303/API_HTTP_Dashboard_LED_RGB) this demo shows an implementation of OTA via SMB and basic functions of "ls", "cat" and downloading files to a SPIFFS partition using the SMB protocol.
 
 ## Libraries
 
