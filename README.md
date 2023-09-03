@@ -36,6 +36,7 @@
 Here you will find projects related to Data Scientist and machine learning
 
 * [Machine Learning and Neural Networks](https://github.com/Tjimenez1303/Passengers_Satisfaction) This project consists of applying the classic machine learning models and comparing it with the results of a basic neural network.
+* [Data Imputation](https://github.com/Tjimenez1303/Solar_Irradiance_Data_Imputation) This project applies numerical methods for imputing solar irradiance data in a corrupted database.
 
 ## Embedded Systems
 
