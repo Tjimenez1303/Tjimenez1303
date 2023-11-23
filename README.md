@@ -12,7 +12,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tjimenez1303&label=Profile%20views&color=0e75b6&style=flat" alt="tjimenez1303" /> </p>
 
-- 🔭 I’m currently working on [Data imputation (GIPEM)](https://colab.research.google.com/drive/1lq_aZcioi6EMYnjjEeNZXihdc3cyr0IH)
+- 🔭 I’m currently working on [Data imputation](https://colab.research.google.com/drive/1lq_aZcioi6EMYnjjEeNZXihdc3cyr0IH) para el Grupo de Investigación en Potencia, Energía y Mercados.
 
 - 🤝 I’m looking for help with [Task ESP32](https://github.com/TJA1303/TASK_SIMULATION_CAUTIN)
 
